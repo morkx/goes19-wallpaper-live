@@ -6,8 +6,8 @@ BLUE='\033[0;34m'
 RED='\033[0;31m'
 NC='\033[0m' # No Color
 
-INSTALL_DIR="$HOME/.local/share/goes19-wallpaper"
-SERVICE_NAME="goes19-wallpaper"
+INSTALL_DIR="$HOME/.local/share/goes19-wallpaper-live"
+SERVICE_NAME="goes19-wallpaper-live"
 
 echo -e "${BLUE}=== Instalador de GOES-19 Live Wallpaper ===${NC}"
 
