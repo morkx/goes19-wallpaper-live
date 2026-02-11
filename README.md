@@ -16,7 +16,10 @@ Ideal para monitorear el clima en tiempo real sobre el Cono Sur (Uruguay, Argent
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/morkx/goes19-wallpaper.git
-
+   git clone https://github.com/morkx/goes19-wallpaper-live.git
+1. Ejecuta
+   ```bash
+   cd goes19-wallpaper-live/
+   bash install.sh
 
 Esto fue generado con ayuda de gemini
